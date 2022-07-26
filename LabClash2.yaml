@@ -345,7 +345,6 @@ rules:
 
   - DOMAIN-SUFFIX,douyu.com,视频音乐
   - DOMAIN-SUFFIX,douyucdn.cn,视频音乐
-  - DOMAIN-SUFFIX,tc-tct.douyucdn2.cn,视频音乐
 
   - DOMAIN-SUFFIX,bilibili.com,视频音乐
   - DOMAIN-SUFFIX,bilivideo.com,视频音乐
